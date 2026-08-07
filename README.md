@@ -1,55 +1,75 @@
-# Python Practice
+# Python Training 🐍
 
-A collection of Python practice exercises that I solved while learning Python.
+A collection of Python exercises organized by difficulty level.
+This repository documents my progress in learning Python through practical problems and small projects.
 
-The purpose of this repository is to improve my problem-solving skills and become more familiar with Python's built-in features and standard library.
+---
 
-## Repository Structure
+## 📂 Repository Structure
 
-```
-python-practice/
-│
-├── simple/
-└── intermediate/
-```
+### 🟢 Simple
 
-## Topics Covered
+Beginner-level exercises focused on Python fundamentals.
 
-- Strings
-- Lists
-- Dictionaries
-- Sets
-- Functions
+Topics covered:
+
+- Variables and Data Types
+- Conditions
+- Loops
+- Lists and Dictionaries
 - File Handling
-- Object-Oriented Programming
-- Lambda Functions
-- Recursion
-- itertools
+- Basic Algorithms
+- String Processing
+
+
+### 🟡 Intermediate
+
+Exercises focused on problem solving, data processing, and Object-Oriented Programming.
+
+Topics covered:
+
+- Functions
+- Advanced Data Structures
 - Algorithms
+- JSON Processing
+- Recursion
+- Object-Oriented Programming (OOP)
+- Data Management
 
-## Exercises
 
-### Simple
-- File Read & Write
-- Word Counter
-- Character Frequency
-- Anagram Checker
-- Title Case Converter
-- Countdown Timer
-- Dictionary Merge
-- Remove Duplicates
-- Set Relationships
-- ...
+---
 
-### Intermediate
-- Recursive List Flatten
-- Power Set Generator
-- Lambda Sorting
-- List Rotation
-- OOP (Car Class)
-- Prime Number Generator
-- Inverted Index
+## 🎯 Goal
 
-## Goal
+The goal of this repository is to improve Python programming skills through:
 
-Continue solving Python exercises and gradually move toward more advanced algorithmic and real-world programming challenges.
+- Writing clean and readable code
+- Practicing algorithmic thinking
+- Understanding Python concepts step by step
+- Building a foundation for real-world projects
+
+
+---
+
+## 🛠️ Technologies
+
+- Python 3
+- Git
+- GitHub
+
+
+---
+
+## 📈 Progress
+
+- ✅ Simple Exercises
+- ⏳ Intermediate Exercises
+
+
+
+---
+
+## 👤 Author
+
+GitHub:
+https://github.com/gik-eng
