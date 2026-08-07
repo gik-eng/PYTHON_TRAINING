@@ -1,0 +1,3 @@
+Hello, this is my first note.
+Python file handling is simple.
+End of file.
