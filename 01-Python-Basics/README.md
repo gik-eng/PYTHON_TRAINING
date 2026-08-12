@@ -1,12 +1,18 @@
-# Simple Python Exercises
+# Python Basics 🐍
 
 This folder contains beginner-friendly Python exercises.
 
-The focus of these exercises is learning Python syntax and strengthening problem-solving skills.
+The focus of these exercises is learning Python syntax,
+understanding core programming concepts, and strengthening
+problem-solving skills.
 
-## Included Topics
+---
+
+## 📚 Included Topics
 
 - Variables
+- Data Types
+- Conditions
 - Loops
 - Functions
 - Lists
@@ -14,11 +20,14 @@ The focus of these exercises is learning Python syntax and strengthening problem
 - Sets
 - Strings
 - File Handling
+- Basic Algorithms
 
-## Exercises
+---
+
+## 📝 Exercises
 
 | # | Exercise |
-|---|----------|
+|---|---|
 | 01 | File Read & Write |
 | 02 | Anagram Checker |
 | 03 | Word Frequency Counter |
@@ -28,7 +37,14 @@ The focus of these exercises is learning Python syntax and strengthening problem
 | 07 | Remove Duplicates |
 | 08 | List Filter Uppercase |
 | 09 | Character Frequency Counter |
-| 10 | Palindrom Sentence Checker |
+| 10 | Palindrome Sentence Checker |
 | 11 | Countdown Timer |
 | 12 | Set Relationships |
 | 13 | Title Case Converter |
+
+---
+
+## 🎯 Goal
+
+Build a strong foundation in Python by practicing
+fundamental concepts through small and focused exercises.
