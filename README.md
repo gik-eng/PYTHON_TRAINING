@@ -89,7 +89,7 @@ Main goals:
 ## 📈 Progress
 
 - ✅ 01 - Python Basics
-- 🔄 02 - Intermediate Python
+- ✅ 02 - Intermediate Python
 - ⏳ 03 - Pandas
 
 ---
